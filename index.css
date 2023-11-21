@@ -1,0 +1,55 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    margin: 8px;
+}
+
+.container {
+    max-width: 75%;
+    margin: auto;
+    text-align: center;
+}
+
+.parts {
+    margin: auto;
+    margin-top: 15px;
+    border: 2px solid;
+    padding: 8px;
+    background-color: rgba(145, 180, 210, 0.8);
+}
+
+.block {
+    display: block;
+    margin: auto;
+    margin-top: 5px;
+}
+
+.table {
+    border: 3px solid;
+    margin: auto;
+}
+
+.bor {
+    border: 2px solid;
+    padding: 3px;
+}
+
+.float {
+    margin: auto;
+    margin-top: 5px;
+}
+
+.form {
+    margin: auto;
+    padding: 10px;
+}
+
+.submit {
+    background-color: rgb(4, 183, 124);
+    color: white;
+    padding: 8px 15px;
+    border: none;
+    cursor: pointer;
+}
